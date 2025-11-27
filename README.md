@@ -21,7 +21,7 @@ We prove:
 - [The_Threshold_Sentence_Ω__Effective_Arithmetic_Truth_And_The_Continuum.pdf](The_Threshold_Sentence_Ω__Effective_Arithmetic_Truth_And_The_Continuum.pdf)  
 - [The_Final_Incompleteness_Theorem__Consistency_Implies_Con_ZFC.pdf](The_Final_Incompleteness_Theorem__Consistency_Implies_Con_ZFC.pdf)
 
-**LaTeX sources** available in the repo.
+**LaTeX sources** available upon request.
 
 This is the closure of Gödel’s programme: the unprovable truths form the real line — and there are exactly continuum many of them.
 
